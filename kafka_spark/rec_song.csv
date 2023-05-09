@@ -1,0 +1,12 @@
+,name,artists,acousticness,liveness,instrumentalness,energy,danceability,valence
+4,Another Love,Tom Odell,0.695,0.0944,1.65e-05,0.537,0.445,0.131
+8,cardigan,Taylor Swift,0.537,0.25,0.000345,0.581,0.613,0.551
+5,Where Are You Now,Lost Frequencies,0.515,0.172,0.000411,0.636,0.671,0.262
+3,Flowers,Miley Cyrus,0.0632,0.0322,5.15e-06,0.681,0.707,0.646
+1,Before You Go,Lewis Capaldi,0.604,0.0885,0.0,0.575,0.459,0.183
+9,Someone You Loved,Lewis Capaldi,0.751,0.105,0.0,0.405,0.501,0.446
+10,Photograph,Ed Sheeran,0.607,0.0986,0.000464,0.379,0.614,0.201
+7,Ghost,Justin Bieber,0.185,0.415,2.91e-05,0.741,0.601,0.441
+2,Atlantis,Seafret,0.0529,0.115,2.14e-06,0.479,0.4,0.213
+0,Last Night,Morgan Wallen,0.459,0.151,0.0,0.675,0.517,0.518
+266,The Nights,Avicii,0.0166,0.249,0.0,0.835,0.527,0.654
