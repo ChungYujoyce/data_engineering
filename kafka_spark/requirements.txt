@@ -1,9 +1,12 @@
 # python 3.9
 pandas
 numpy
+tqdm
 seaborn
 ujson
 spotipy
 urllib3==1.25.1
 pyspark
 kafka-python
+confluent-kafka
+google-cloud-bigquery

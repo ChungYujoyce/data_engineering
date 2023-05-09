@@ -38,6 +38,8 @@ if __name__ == "__main__":
         count += 10
         print("end streaming batch...")
 
+    consumer.close()
+
 
 
 
