@@ -28,9 +28,11 @@
   - `os.environ['PYSPARK_SUBMIT_ARGS'] = '--packages org.apache.spark:spark-streaming-kafka-0-10_2.12:{your spark version},org.apache.spark:spark-sql-kafka-0-10_2.12:{your spark version} pyspark-shell'` 
 
   - Run `kafka_producer.py` first and `stream.py` later, you can get 10 (changable) recommended songs based on one random generated song in your song dataset.
+![alt text](./imgs/res_song.png)
   
 ### Streamlit
 - Run `streamlit run dashboard.py` and see data visualization of your songs on the dashboard.
+![alt text](./imgs/streamlit.png)
 
 ### 3. `kafka_producer.py` + `bq_consumer.py` 
 #### Confluent_Kafka
@@ -42,7 +44,7 @@
 - Add table schema manually according to your data table.
 
 You can now do data streaming to Bigquery!
-![alt text](image_url)
+![alt text](./imgs/result.png)
 
 #### Data visualization
 
