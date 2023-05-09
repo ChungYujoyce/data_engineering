@@ -8,5 +8,9 @@ spotipy
 urllib3==1.25.1
 pyspark
 kafka-python
+# bq_consumer.py
 confluent-kafka
 google-cloud-bigquery
+# dashboard.py
+streamlit
+plotly
