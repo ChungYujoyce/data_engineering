@@ -1,0 +1,4 @@
+.DS_Store
+.cache
+kafka_spark/kaf/
+gcp_dataflow/flow/
