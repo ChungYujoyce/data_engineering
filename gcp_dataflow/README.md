@@ -22,9 +22,13 @@ Under the project:
   - Go to IAM & Role, click grant accress, add the service account as new principals.
   - Assign necessary roles.
     - Each of the following predefined Identity and Access Management roles includes this permission:
+  
         BigQuery Data Editor `(roles/bigquery.dataEditor)`
+
         BigQuery Data Owner `(roles/bigquery.dataOwner)`
+
         BigQuery Admin `(roles/bigquery.admin)`
+
         Storage Admin `toles/Storage Admin`
 
 ### 3. Streaming pipeline with Dataflow template
