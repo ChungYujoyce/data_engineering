@@ -32,7 +32,4 @@ Follow the [tutorial](https://cloud.google.com/dataflow/docs/quickstarts/create-
 
 ![alt text](./imgs/res2.png)
 ![alt text](./imgs/res1.png)
-
-### Dataflow pipeline using Python
-Use Google Cloud CLI to run commands and deploy a python dataflow pipeline.
   
